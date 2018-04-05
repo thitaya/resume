@@ -1,0 +1,73 @@
+#container{
+    margin: 0 auto; /*กำหนดตัวแหน่ง*/
+    width: 1000;
+    height: 1000px;
+    border: 1px solid #006699;
+    
+    
+}
+header{
+   padding-top: 15px; /*เพิ่มพื้นที่*/
+   height: 30px;
+   border: 0px solid white;
+   background:	#006699;
+   color: white;
+   
+  
+}
+#t{
+    height: 150px;
+    border: 1px solid   #3399FF;
+    
+    color: white;
+    background-image: url("/Users/thitaya/Desktop/resume/m.jpg")
+    
+}
+h2,h3{
+    margin : 20px;
+    color: #6699FF;
+    font-family: "EkkamaiStandard-Light";
+    text-decoration:underline; 
+    
+   
+    
+}
+h1,h4{
+    margin: 20px;
+    text-shadow: 2px 3px 	DarkGoldenrod; /*สีซ้อน*/
+}
+nav{
+    float: left;
+    padding: 20px;
+    width: 600px;
+    height: 740px;
+    border: 3px solid #3399FF;
+    background: AliceBlue;
+   
+}
+article {
+   
+}
+footer{
+    margin: 0 auto;
+    float: left;
+    width: 1000px;
+    height: 130px;
+    border: 1px solid #3399FF; 
+    background:#1d3057
+   
+}
+p{
+    font-family: "EkkamaiStandard-Light";
+    
+   
+}
+p#k{
+    color: white;
+}
+p#b{
+    color: white;
+}
+.cir{
+    border-radius: 80%; /*รูปวงกลม*/
+}
